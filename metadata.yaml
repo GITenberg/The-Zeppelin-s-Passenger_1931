@@ -1,0 +1,29 @@
+_repo: The-Zeppelin-s-Passenger_1931
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Oppenheim, Edward Phillips
+    - Partridge, Anthony
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: ''
+gutenberg_issued: '1999-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: The Zeppelin's Passenger
+url: http://www.gutenberg.org/ebooks/1931
