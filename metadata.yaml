@@ -1,5 +1,8 @@
 _repo: The-Zeppelin-s-Passenger_1931
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1931#The-Zeppelin-s-Passenger
 gutenberg_issued: '1999-10-01'
 gutenberg_type: Text
 identifiers:
